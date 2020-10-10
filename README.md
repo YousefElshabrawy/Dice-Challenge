@@ -1,6 +1,6 @@
 # Dice Challenge
 
-Dice is a simple DOM manipulating challenge that I coded with Angela Yu in her Complete Full Stack course on Udemy.
+Dice is a simple DOM manipulating challenge that I coded with Angela Yu in her Complete Full Stack Bootcamp on Udemy.
 
 ## 💻 Build with
 
